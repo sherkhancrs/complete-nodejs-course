@@ -7,3 +7,6 @@
 [submodule "node-app"]
 	path = node-app
 	url = https://github.com/sherkhancrs/node-app.git
+[submodule "express-demo"]
+	path = express-demo
+	url = https://github.com/sherkhancrs/express-demo.git
