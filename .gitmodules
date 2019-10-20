@@ -1,0 +1,9 @@
+[submodule "lion-lib"]
+	path = lion-lib
+	url = https://github.com/sherkhancrs/lion-lib.git
+[submodule "npm-demo"]
+	path = npm-demo
+	url = https://github.com/sherkhancrs/npm-demo.git
+[submodule "node-app"]
+	path = node-app
+	url = https://github.com/sherkhancrs/node-app.git
